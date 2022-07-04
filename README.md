@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigfrox&layout=compact&theme=cobalt&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 # About
 
@@ -14,7 +14,6 @@ LinkedIn - https://www.linkedin.com/in/suhwan-myeong-4070191b8/ <br>
 Blog - https://bigfrog.tistory.com/ <br>
 Facebook - https://fb.com/koreabigfrog <br>
 
-</div>
 
 <br>
 
