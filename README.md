@@ -4,9 +4,9 @@
 
 </div>
 
-LinkedIn - https://www.linkedin.com/in/suhwan-myeong-4070191b8/
-Blog - https://bigfrog.tistory.com/
-Facebook - fb.com/koreabigfrog
+LinkedIn - https://www.linkedin.com/in/suhwan-myeong-4070191b8/ <br>
+Blog - https://bigfrog.tistory.com/ <br>
+Facebook - fb.com/koreabigfrog <br>
 
 ## Speaker at HITB2021AMS
 
