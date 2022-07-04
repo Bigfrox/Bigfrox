@@ -4,19 +4,51 @@
 
 </div>
 
-### Hi there 👋
+LinkedIn - https://www.linkedin.com/in/suhwan-myeong-4070191b8/
+Blog - https://bigfrog.tistory.com/
+Facebook - fb.com/koreabigfrog
 
-<!--
-**Bigfrox/Bigfrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Speaker at HITB2021AMS
 
-Here are some ideas to get you started:
+Hack In The Box Security Conference [05.2021]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- As a Conference Speaker and Researcher, Gave a presentation under the theme of “Grid Computing Attacks on Streaming Services” at national security conference - Hack In The Box
+
+## Best of the Best(KITRI) 9th, Vulnerability Analysis
+
+Korea Information Technology Research Institute, KITRI [07.2020-02/2021]
+
+- In Vulnerability Analysis track, took a lesson about system hacking, fuzzing, malware analysis, network programming, law, etc.
+- As a team member of ‘pwnchline’, found 13 vulnerabilities include Remote Code Execution and reported it.
+
+## Team Leader of Y-CERT, Hacking & Security Club
+
+Yonsei University MIRAE Campus [08.2018-02.2020]
+
+- Held regularly seminar with team members, under the theme of System Hacking, Malware Analysis, Reverse Engineering, Web Hacking, CTF solving.
+
+## Undergraduate Research Student
+
+Database & Security Laboratory at Yonsei University MIRAE Campus [09.2021-12.2021]
+
+- Executed project and researched under the theme of “Detecting the pattern from homomorphic encrypted malicious document”.
+
+## Cyber Security Training Course
+
+Cyber Security Training and Exercise Center, CSTEC [08.2018]
+
+- trained about reverse engineering, system hacking and tools.
+
+# Paper
+
+## Vulnerabilities of Live-Streaming Services in Korea
+
+MDPI SENSORS [05.2022], written in English
+
+## Client-Side Attack on Live-Streaming Services using Grid Computing
+
+HITB Magazine June-2021 [06.2021], written in English
+
+## Threat Modeling on Live-Streaming Services Using Grid Computing
+
+CISC-W’20, Korea institute of information security & cryptology [11.2020], written in Korean
