@@ -13,6 +13,7 @@
 LinkedIn - https://www.linkedin.com/in/suhwan-myeong-4070191b8/ <br>
 Blog - https://bigfrog.tistory.com/ <br>
 Facebook - https://fb.com/koreabigfrog <br>
+SCI Profiles - https://sciprofiles.com/profile/suhwan <br>
 
 
 <br>
